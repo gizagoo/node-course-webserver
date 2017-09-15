@@ -1,0 +1,13 @@
+{
+  "name": "node-web-server",
+  "version": "0.0.0",
+  "description": "NodeWebServer",
+  "main": "app.js",
+  "author": {
+    "name": "frank"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "hbs": "^4.0.1"
+  }
+}
