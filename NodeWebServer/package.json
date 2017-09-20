@@ -5,13 +5,15 @@
   "engines": {
     "node": "8.4.0"
   },
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
     "name": "frank"
   },
+  "license": "ISC",
   "dependencies": {
     "express": "^4.15.4",
     "hbs": "^4.0.1"
